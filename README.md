@@ -119,7 +119,7 @@ Be sure to drop a 🌟 if you like the project!
 
 👤 **SajagIN**
 
-- Website: https://SajagIN.cf
+- Website: https://SajagIN.github.io
 - Twitter: [@SajagIN1](https://twitter.com/SajagIN1)
 - Github: [@SajagIN](https://github.com/SajagIN)
 
