@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.21.2"
   },
-  "author": "CodeWhiteWeb",
+  "author": "SajagIN",
   "license": "MIT",
   "devDependencies": {
     "prettier": "^2.5.1",
