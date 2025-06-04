@@ -98,6 +98,6 @@ Use `?theme=THEME_NAME` parameter like so :-
 [moltack]: https://github-readme-riddle.vercel.app/api?theme=moltack
 [codeSTACKr]: https://github-readme-riddle.vercel.app/api?theme=codeSTACKr
 [rose_pine]: https://github-readme-riddle.vercel.app/api?theme=rose_pine
-[add-theme]: https://github.com/CodeWhiteWeb/Github-Readme-Riddle/edit/main/src/renderer/theme/awesomeCard.js
+[add-theme]: https://github.com/SajagIN/Github-Readme-Riddle/edit/main/src/renderer/theme/awesomeCard.js
 
 Want to add a new theme? Open a PR :D
