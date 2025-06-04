@@ -8,16 +8,16 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/github-readme-riddle/issues">
-    <img src="https://img.shields.io/github/issues/CodeWhiteWeb/github-readme-riddle?style=flat-square">
+  <a href="https://github.com/SajagIN/github-readme-riddle/issues">
+    <img src="https://img.shields.io/github/issues/SajagIN/github-readme-riddle?style=flat-square">
   </a>
 
-  <a href="https://github.com/CodeWhiteWeb/github-readme-riddle/pulls">
-    <img src="https://img.shields.io/github/issues-pr/CodeWhiteWeb/github-readme-riddle?style=flat-square">
+  <a href="https://github.com/SajagIN/github-readme-riddle/pulls">
+    <img src="https://img.shields.io/github/issues-pr/SajagIN/github-readme-riddle?style=flat-square">
   </a>
   
-  <a href="https://twitter.com/CodeWhiteWeb1" target="_blank">
-    <img alt="Twitter: CodeWhiteWeb1" src="https://img.shields.io/twitter/follow/CodeWhiteWeb1.svg?style=social" />
+  <a href="https://twitter.com/SajagIN" target="_blank">
+    <img alt="Twitter: SajagIN" src="https://img.shields.io/twitter/follow/SajagIN.svg?style=social" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://github-readme-riddle.vercel.app/api" target="_blank">View Demo</a>
   <span> · </span>
-  <a href="https://github.com/CodeWhiteWeb/github-readme-riddle/issues" target="_blank">Report Bug</a>
+  <a href="https://github.com/SajagIN/github-readme-riddle/issues" target="_blank">Report Bug</a>
 </p>
 
 ## Features ✨
@@ -38,7 +38,7 @@
 Copy the markdown below and paste it in your Github Readme.
 
 ```md
-[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/SajagIN/github-readme-riddle)
 ```
 
 ### Options
@@ -74,25 +74,25 @@ yarn run vercel dev
 
 > You don't need to add **?type=vertical** parameter.
 
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?type=vertical)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+[![readme Riddle](https://github-readme-riddle.vercel.app/api?type=vertical)](https://github.com/SajagIN/github-readme-riddle)
 
 ### Horizontal
 
 > You need to add **?type=horizontal** parameter.
 
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+[![readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal)](https://github.com/SajagIN/github-readme-riddle)
 
 ### Light
 
 > You don't need to add **?theme=light** parameter.
 
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?type=vertical)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+[![readme Riddle](https://github-readme-riddle.vercel.app/api?type=vertical)](https://github.com/SajagIN/github-readme-riddle)
 
 ### Dark
 
 > You need to add **?theme=dark** parameter.
 
-[![readme Riddle](https://github-readme-riddle.vercel.app/api?theme=dark)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+[![readme Riddle](https://github-readme-riddle.vercel.app/api?theme=dark)](https://github.com/SajagIN/github-readme-riddle)
 
 ### Other themes
 
@@ -104,7 +104,7 @@ yarn run vercel dev
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/CodeWhiteWeb/github-readme-riddle/issues).
+Feel free to check [issues page](https://github.com/SajagIN/github-readme-riddle/issues).
 
 ## Special Thanks ❤
 
@@ -117,10 +117,10 @@ Be sure to drop a 🌟 if you like the project!
 
 ## Author 🤗
 
-👤 **CodeWhiteWeb**
+👤 **SajagIN**
 
-- Website: https://CodeWhiteWeb.cf
-- Twitter: [@CodeWhiteWeb1](https://twitter.com/CodeWhiteWeb1)
-- Github: [@CodeWhiteWeb](https://github.com/CodeWhiteWeb)
+- Website: https://SajagIN.cf
+- Twitter: [@SajagIN1](https://twitter.com/SajagIN1)
+- Github: [@SajagIN](https://github.com/SajagIN)
 
-<div align="center">Made by CodeWhiteWeb with ❤ and JavaScript.</div>
+<div align="center">Made by SajagIN with ❤ and JavaScript.</div>
